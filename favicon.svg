@@ -1,1 +1,13 @@
-<?xml version="1.0" ?><svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><defs><style>.cls-1{fill:none;stroke:#ffc107;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}</style></defs><title/><g data-name="Layer 2" id="Layer_2"><rect class="cls-1" height="18" width="30" x="1" y="4"/><polygon class="cls-1" points="31 22 22 28 22 22 31 22"/><line class="cls-1" x1="7" x2="9" y1="8" y2="8"/><line class="cls-1" x1="23" x2="25" y1="8" y2="8"/><path class="cls-1" d="M23,11A7,7,0,0,1,9,11"/></g></svg>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+
+ <title/>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_6" d="m254.5,507c-138.67403,0 -251,-112.32597 -251,-251c0,-138.67403 112.32597,-251 251,-251c138.67403,0 251,112.32597 251,251c0,138.67403 -112.32597,251 -251,251z" opacity="undefined" stroke-width="0" stroke="#4d4d4d" fill="#4285f4"/>
+  <rect stroke="#4d4d4d" stroke-width="5" id="svg_1" stroke-linejoin="round" stroke-linecap="round" fill="#FFFA8D" y="121.6" x="57" width="391.99997" height="235.19998" class="cls-1"/>
+  <polygon stroke="#4d4d4d" id="svg_2" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" fill="#e6c36a" points="449.9999694824219,357.79998779296875 305.0999755859375,454.3999938964844 305.0999755859375,357.79998779296875 449.9999694824219,357.79998779296875 " class="cls-1"/>
+  <line stroke="#4d4d4d" id="svg_3" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" fill="none" y2="166.4" y1="166.4" x2="141.79999" x1="109.59999" class="cls-1"/>
+  <line stroke="#4d4d4d" id="svg_4" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" fill="none" y2="166.4" y1="166.4" x2="399.39997" x1="367.19998" class="cls-1"/>
+  <path stroke="#4d4d4d" id="svg_5" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" fill="none" d="m367.19998,211.02493a112.69999,112.69999 0 0 1 -225.39999,0" class="cls-1"/>
+ </g>
+</svg>
